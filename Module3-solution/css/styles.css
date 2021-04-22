@@ -44,3 +44,7 @@ header .navbar button#toggler-border, .navbar button.navbar-toggle .navbar-toggl
 header .navbar button#toggler-border:hover {
     background-color: blueviolet;
 }
+
+#Chicken, #Beef, #Shushi {
+    box-shadow: 0 0 100px lightsteelblue;
+}
